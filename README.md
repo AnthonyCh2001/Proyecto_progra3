@@ -1,7 +1,7 @@
 # Programación III: Proyecto Final (2024-2)
 
 ## Integrantes
-* Nombre y Apellidos
+* Anthony Chavez Ayme
 * Nombre y Apellidos
 * Nombre y Apellidos
 * Nombre y Apellidos
