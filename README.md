@@ -2,7 +2,7 @@
 
 ## Integrantes
 * Anthony Chavez Ayme
-* Nombre y Apellidos
+* Marco Madrid Gonzales
 * Nombre y Apellidos
 * Nombre y Apellidos
 
